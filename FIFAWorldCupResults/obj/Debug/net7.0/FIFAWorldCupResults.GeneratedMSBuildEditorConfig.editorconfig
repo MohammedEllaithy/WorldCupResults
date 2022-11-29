@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = FIFAWorldCupResults
+build_property.RootNamespace = FIFAWorldCupResults
+build_property.ProjectDir = I:\Z Projects2023\FIFAWorldCupResults\FIFAWorldCupResults\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = I:\Z Projects2023\FIFAWorldCupResults\FIFAWorldCupResults
+build_property._RazorSourceGeneratorDebug = 
+
+[I:/Z Projects2023/FIFAWorldCupResults/FIFAWorldCupResults/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Z Projects2023/FIFAWorldCupResults/FIFAWorldCupResults/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Z Projects2023/FIFAWorldCupResults/FIFAWorldCupResults/Pages/Components/MatchRow.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xNYXRjaFJvdy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Z Projects2023/FIFAWorldCupResults/FIFAWorldCupResults/Pages/Components/TableRow.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xUYWJsZVJvdy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Z Projects2023/FIFAWorldCupResults/FIFAWorldCupResults/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Z Projects2023/FIFAWorldCupResults/FIFAWorldCupResults/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
